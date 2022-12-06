@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Alexander-Malthed
+- 👋 Hi, I’m Alexander Malthed
 - 👀 I’m interested in software development and video games.
-- 🌱 I’m currently improving my portfolio. Link: https://www.alexandermalthed.com/
-- 💞️ I’m looking to join the gaming industry as a programmer.
+- 💞️ Currently coding Candy Crush Saga at King!
+- 🌱 🔥 Portfolio 🔥 Link: https://www.alexandermalthed.com/
 - 📫 Linkedin: https://www.linkedin.com/in/alexander-malthed-9b68b3220/
 
 <!---
